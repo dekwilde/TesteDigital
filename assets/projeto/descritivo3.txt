@@ -1,0 +1,57 @@
+Inscrição
+Deverá ser feita via Facebook.
+Será preciso disponibilizar um link com login e senha para que a nossa TI tenha acesso ao banco de dados com o cadastro completo dos alunos inscritos, Login e Senha de cada e dia e horário que ele se inscreveu. Quando ocorrer a prova online a nota deste aluno deverá constar em uma coluna neste mesmo banco de dados. Se o aluno esta com 0 é por que errou tudo, se esta sem nota é porque se inscreveu e não fez a prova, com isso conseguimos identifica-los para fazer uma ação de callcenter.
+ 
+No cadastro da inscrição deverá conter os seguintes campos:
+NOME*:
+ESCOLA*:
+RG:
+NOME DO PAI:
+PROF. PAI:
+NOME DA MAE:
+PROF. MAE:
+ENDEREÇO*:
+NUMERO*:
+DDD*:
+FONE*:
+BAIRRO*:
+CIDADE*:
+UF*:
+NOME RESPONSAVEL*:
+EMAIL RESPONSÁVEL*:
+EMAIL DO INSCRITO*:
+                        
+*campos obrigatórios
+ 
+(16)3602-8200. (na página da inscrição) caso alguém tenha alguma dúvida no preenchimento.
+ 
+
+ 
+Ecards
+ao efetuar a inscrição deverá aparecer na hora uma mensagem de inscrição realizada com sucesso, datas das provas horários, e etc e também deverá enviar automaticamente um email de confirmação de inscrição com estas mesmas informações de data horário, etc, porém este email deverá ser um texto diferenciado, bem direcionado, envolvente. Um email bonito de se ler. Temos que encantar o inscrito a todo momento. Neste email deverá constar o login e senha do aluno para o dia da Prova Online
+ 
+
+Prova
+- O aluno vai entrar no Face do Liceu, no período que a prova estará aberta (ainda não definimos, mas possivelmete será 30/08, 31/08, 01/09 e 02/09), clicar no aplicativo do vestibulinho e colocar seu login e senha que recebeu no email e clicar em “Começar a Prova”. A partir deste momento aparece um relógio com contagem regressiva – 1h ou 2h de prova (tenho que confirmar).
+As questões foram da seguinte forma:
+Total de 82 questões dentro do aplicativo, divididas do seguinte modo:
+
+28 questões de Ciências da Natureza e suas Tecnologias
+21 questões de Humanas e suas Tecnologias
+17 questões de Matemática e suas Tecnologias
+16 questões de Linguagens, Códigos e suas Tecnologias
+ 
+Cada tipo de matéria da prova deverá possuir o numero de questões multiplicado por 3, assim temos para cada usuário uma probabilidade de aparições randomicas igual a 3, ou seja, por exemplo:
+As questões de "Ciências da Natureza e suas Tecnologias" deverão ser de 28 * 3 = 84, assim deverão ser preparadas 84 questões para está área de matéria escolar, para aparecerem randomicamente. 
+Cada pergunta terá 5 opções de repostas. Só uma é a certa. As respostas também deverão ser ordenadas randômicamente.
+Caso o aluno perca a conexão com a internet, bastará ele se logar no sistema novamente e continuar a prova de onde parou.
+A qualquer momento, dentro do período de 2 horas se o aluno se desligar do sistema, a contagem irá parar exactamente no mesmo instante, para posterior login e continuar a prova do mesmo ponto. Ou seja, caso ele esteja na questão 23 da prova de "Ciências da Natureza e suas Tecnologias" e a conexão com a internet dele cair ou ele se deslogar propositadamente, aos 33 minutos da contagem regressiva da prova, após ele se logar novamente, irá aparecer um botão "continuar prova" e o contador irá iniciar novamente. Irá aparecer uma nova questão de número 23 para ele, assim restando somente mais 5 questões para ele finalizar a prova de "Ciências da Natureza e suas Tecnologias". Para todas as questões que ele já tenha visualizado, caso ele saia sistema e clicar na questão novamente, irá aparecer uma nova questão randomicamente dentro das existentes. Irá aparecer somente uma questão por vez na tela para o usuário responder, dessa maneira evitamos o problema do usuário iniciar a prova desde o começo novamente, dando menos possibilidades de fralde e erros no sistema. O aluno poderá ter a opção de escolher qual questão responder primeiro, pois irá aparecer uma listagem numérica de todas as questões no rodapé da interface, marcando em verde todas as questões já respondidas e em amarelo todas que faltam responder e em vermelho todas as qUe já foram visualizadas. O aluno pode finalizar a prova sem ter respondido todas as questões, o sistema irá avisar que existem questões dependentes, antes de confirmar.
+Caso o aluno se desligue do sistema mais do que 5 vezes seguidas, todas as questões que ele já tenha visualizado serão perdidas e ele perderá esses pontos, evitando fraldes.
+Todos esses detalhes devem estar declarados no regulamento da prova.
+
+
+
+Divulgação
+O aluno irá receber por email pontos feitos na prova online automático. Irá aparecer também a listagem dos alunos e suas colocações on-line no site, somente após o login no sistema.
+
+
