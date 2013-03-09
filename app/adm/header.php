@@ -1,47 +1,53 @@
-<?php
-session_start();
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+<html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 
-if ( !isset( $_SESSION['is_admin'] ) ) {
-    header( 'location: index.php' );
-    die;
-}
-require( '../conecta.php' );
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-
-?>
-<html>
-<head>
-	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
-	<title>ADMIN VESTIBULINHO LICEU A SABIN</title>
-	
-	 <script>
-	    function confirma_deletar() {
-	        return confirm( 'Tem certeza que deseja excluir?' );
-	    }
-	</script>
-	<style type="text/css" media="screen">
-		body {
-			font-family: Arial, "MS Trebuchet", sans-serif;
-			font-size: 11px;
-		}
-		table {
-			font-size: 11px;
-		}
-		#center {
-			width:900px;
-			margin-left:auto;
-			margin-right:auto;
-		}
-	</style>
-	
-	<script type="text/javascript"  src="ckeditor/ckeditor.js"></script>
+		<title>HTML - Admin Pure</title>
 		
-</head>
-<body id="index">
-	<div id="center">
-		<a href="logout.php" style="float:right">[ SAIR X ]</a>
-		<h2>ADMINISTRATIVO VESTIBULINHO - LICEU ALBERT SABIN</h2>
-		<div id="menu">
-			<a href="home.php">Usu&aacute;rios</a>
-			<a href="questions.php">Quest&otilde;es</a>
-		</div>
+		<!-- Styles -->
+		<link rel='stylesheet' href='_layout/style.css' type='text/css' media='all' />
+		
+		<!--[if IE]>
+		
+			<link rel='stylesheet' href='_layout/IE.css' type='text/css' media='all' />		
+			
+		<![endif]-->
+		
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold|PT+Sans+Narrow:regular,bold|Droid+Serif:i&amp;v1' rel='stylesheet' type='text/css' />
+		
+		<script type='text/javascript' src='_layout/scripts/jquery-1.7.1.js'></script>
+		<!-- WYSISYG Editor -->
+		<script type='text/javascript' src='_layout/scripts/nicEdit/nicEdit.js'></script>
+		
+		<!-- Forms Elemets --> 
+		<!-- <script type='text/javascript' src='_layout/scripts/jquery.uniform/jquery.uniform.min.js'></script>
+		<link rel='stylesheet' href='_layout/scripts/jquery.uniform/uniform.default.css' type='text/css' media='screen' />   -->
+		<script type="text/javascript"  src="ckeditor/ckeditor.js"></script> 
+		
+		
+		<!-- Table sorter -->
+		<script type='text/javascript' src='_layout/scripts/jquery.tablesorter/jquery.tablesorter.min.js'></script>
+		
+		<!-- Calendar -->   		
+		<link rel='stylesheet' href='_layout/scripts/jquery.fullcalendar/fullcalendar.css' type='text/css' media='screen' />
+		<link rel='stylesheet' href='_layout/scripts/jquery.fullcalendar/fullcalendar.print.css' type='text/css' media='print' />
+		<script type='text/javascript' src='_layout/scripts/jquery.fullcalendar/fullcalendar.min.js'></script>
+
+		
+		
+		<!-- Scripts -->
+		<script type='text/javascript' src='_layout/custom.js'></script> 
+		
+
+
+  	
+		
+		
+		
+	</head>  
+	

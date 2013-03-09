@@ -1,0 +1,351 @@
+ html{
+ background: #ffffff;
+ }
+
+ .sep{
+ height: 2px;
+ border-bottom: 1px solid #d0d0d0;
+ background: none;
+ margin: 10px 0 0 0;
+ }
+
+ .submit_middle:hover{
+ cursor: pointer;
+ }
+
+ .comment_buble a{
+ color: none;
+ }
+
+ .right_side p, label{
+ color: #282828;
+ }
+
+ label span, p.mandatory_fields, p.error, .entry span{
+ color: #f35619;
+ }
+
+ .features, .under_fold p{
+ color: none;
+ }
+
+.sec_menu a{
+ color: #282828;
+ }
+
+ .footer, .footer_links li a{
+ color: none;
+ }
+
+ .left_side .left_box_middle p, .left_box_middle p span a, .comment_buble a{
+ color: #575757;
+ }
+
+ .page_not_found .blog_categories p{
+ color: #5d5d5d;
+ font-style:normal;
+ font-weight: normal;
+ }
+
+ h3{
+ font-size: 15px;
+ }
+
+ .pricing tr td span{
+ color: none;
+ }
+
+ .blog_categories a{
+ color: none;
+ }
+
+ .button_middle a, .button_middle_back a, .submit_middle, .blog_categories .button_middle_404 a{
+ color: #ffffff !important;
+ text-shadow: 0 1px 0 #2e2e2e;
+ }
+
+ .blog_cat:hover{
+ color: #797979;
+ }
+
+ .tab_off:hover{
+ color: #ffffff;
+ }
+
+ .sec_menu a:hover{
+ color: #5e5e5e;
+ }
+
+.main_menu .current-menu-item a, .main_menu .current-menu-item a:hover, .main_menu .current-page-ancestor a, .main_menu .current-page-ancestor a:hover,
+.main_menu .current-category-ancestor a, .main_menu .current-category-ancestor a:hover,
+.main_menu .current-menu-parent a, .main_menu .current-menu-parent a:hover,
+.main_menu .current-post-ancestor a, .main_menu .current-post-ancestor a:hover,
+.main_menu .selected, .features, .under_fold p, .footer, .footer_links li a, .pricing tr td span, .blog_categories a.selected, .blog_category p{
+ color: #282828;
+ }
+
+.blog_categories a{
+ color: #575757;
+ }
+
+ h2 a, .text_icon_left span, .left_side p, .pricing{
+ color: #161616;
+ }
+
+ .left_box_middle p span {
+  color:#575757 !important;
+  }
+
+ .input_middle_blog, .tags a, .archive li a{
+ color: #797979;
+ }
+
+ .on a, .first_on a, .last_on a, .on a:hover, .first_on a:hover, .last_on a:hover{
+ font-weight: bold;
+ color: #ffffff;
+ text-shadow: 0 1px 0 #676767;
+ }
+
+ .app_text{
+ background: url(images/tab_bg.png) no-repeat;
+ }
+
+ .left_tab{
+ background: url(images/left_tab_off.png) no-repeat;
+ }
+
+.left_tab_on{
+ background: url(images/left_tab_on.png) no-repeat;
+ }
+
+.middle_tab{
+ background: url(images/middle_tab_off.png) no-repeat;
+ }
+
+ .middle_tab_on{
+ background: url(images/middle_tab_on.png) no-repeat;
+ }
+
+.right_tab{
+ background: url(images/right_tab_off.png) no-repeat;
+ }
+
+.right_tab_on{
+ background: url(images/right_tab_on.png) no-repeat;
+ }
+
+ .under_fold{
+ background: url(images/option_icons_bg.jpg) no-repeat;
+ }
+
+ .sep{
+ border-bottom:1px solid #D0D0D0;
+ background: none;
+ }
+
+ .button_left{
+ background: url(images/button_left.png) no-repeat;
+ }
+
+.button_middle{
+ background: url(images/button_middle.png) repeat-x;
+ }
+
+ .button_right{
+ background: url(images/button_right.png) no-repeat;
+ }
+
+ .screenshot{
+ background: url(images/screenshots_bg.png) no-repeat;
+ }
+
+.page_content{
+ background: url(images/page_content.png) no-repeat;
+ }
+
+ .left_box_top{
+ background: url(images/left_box_top.png) no-repeat;
+ }
+
+.left_box_middle{
+ background: url(images/left_box_middle.png) repeat-y;
+ }
+
+.left_box_bottom{
+ background: url(images/left_box_bottom.png) no-repeat;
+ }
+
+ .input_left{
+ background: url(images/input_left.png) no-repeat;
+ }
+
+.input_middle{
+ background: url(images/input_middle.jpg) repeat-x;
+ }
+
+ .input_right{
+ background: url(images/input_right.png) no-repeat;
+ }
+
+.submit_left{
+ background: url(images/submit_left.png) no-repeat;
+ }
+
+.submit_middle{
+ background: url(images/submit_middle.png) repeat-x;
+ }
+
+.submit_right{
+ background: url(images/submit_right.png) no-repeat;
+ }
+
+ .textarea_left{
+ background: url(images/textarea_left.png) no-repeat;
+ }
+
+.textarea_middle{
+ background: url(images/textarea_middle.png) repeat-x;
+ }
+
+ .textarea_right{
+ background: url(images/textarea_right.png) no-repeat;
+ }
+
+ .footer_left{
+ background: url(images/footer_left.jpg) no-repeat;
+ }
+
+.footer_middle{
+ background: url(images/footer_middle.jpg) repeat-x;
+ }
+
+.footer_right{
+ background: url(images/footer_right.jpg) no-repeat;
+ }
+
+ .sec_menu li{
+ background: url(images/sec_menu_middle.png) no-repeat;
+ }
+
+.sec_menu li.first{
+ background: url(images/sec_menu_top.png) no-repeat;
+ }
+
+.sec_menu li.last{
+ background: url(images/sec_menu_bottom.png) no-repeat;
+ }
+
+.sec_menu li.on{
+ background: url(images/sec_menu_middle_on.png) no-repeat;
+ }
+
+.sec_menu li.last_on{
+ background: url(images/sec_menu_bottom_on.png) no-repeat;
+ }
+
+.sec_menu li.first_on{
+ background: url(images/sec_menu_top_on.png) no-repeat;
+ }
+
+ .comment_buble{
+ background:url(images/comment_buble.png) no-repeat;
+ }
+
+ .button_left_back{
+ background: url(images/button_left_back.png) no-repeat;
+ }
+
+.button_middle_back{
+ background: url(images/button_middle.png) repeat-x;
+ }
+
+.button_right_back{
+ background: url(images/button_right_back.png) no-repeat;
+ }
+
+ .entries_no{
+ background: url(images/entries_no.png) no-repeat;
+ }
+
+.sep_blog_categories{
+ background: url(images/sep_blog_cat_bg.jpg) repeat-x;
+ }
+
+.sep_blog_article{
+ background: url(images/sep_article.jpg) repeat-x;
+ }
+
+ .input_left_blog{
+ background: url(images/blog_search_left.png) no-repeat;
+ }
+
+.input_middle_blog{
+ background: url(images/blog_search_middle.png) repeat-x;
+ }
+
+.input_right_blog{
+ background: url(images/blog_search_right.png) no-repeat;
+ }
+
+ .comments_entry_top{
+ background: url(images/commets_top.jpg) no-repeat;
+ }
+
+.comments_entry_middle{
+ background: url(images/comments_middle.jpg) repeat-y;
+ }
+
+.comments_entry_bottom{
+ background: url(images/comments_bottom.jpg) no-repeat;
+ }
+
+.reply_top{
+ background: url(images/reply_top.jpg) no-repeat;
+ }
+
+.reply_middle{
+ background: url(images/reply_middle.jpg) repeat-y;
+ }
+
+.reply_bottom{
+ background: url(images/reply_bottom.jpg) no-repeat;
+ }
+
+ .pricing thead .colfirst{
+ background:url(images/thead_bg.png) no-repeat;
+ }
+
+ .pricing thead .collast{
+ background:url(images/thead_bg.png) no-repeat right 0;
+ }
+
+.pricing thead td{
+ background:url(images/thead_bg.png) no-repeat -10px 0;
+ }
+
+ .pricing tbody .colfirst{
+ background:url(images/tr_bg.png) no-repeat;
+ }
+
+ .pricing tbody .collast{
+ background:url(images/tr_bg.png) no-repeat right 0;
+ }
+
+ .pricing tbody td{
+ background:url(images/tr_bg.png) no-repeat -10px 0;
+ }
+
+ .pricing tbody tr:hover .colfirst{
+ background:url(images/tr_hover_bg.png) no-repeat;
+ }
+
+ .pricing tbody tr:hover .collast{
+ background:url(images/tr_hover_bg.png) no-repeat right 0;
+ }
+
+.pricing tbody tr:hover td{
+ background:url(images/tr_hover_bg.png) no-repeat -10px 0;
+ }
+
+
+

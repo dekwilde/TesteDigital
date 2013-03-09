@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Silicon App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-10 18:47+0200\n"
+"PO-Revision-Date: 2011-05-10 18:47+0200\n"
+"Last-Translator: ThemeFuse <support@themefuse.com>\n"
+"Language-Team: Themefuse <support@themefuse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\test\\wp-content\\themes\\siliconapp\n"
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/404.php:5
+msgid "Page not found"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/404.php:8
+msgid "The page you were looking for doesn&rsquo;t seem to exist"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:18
+msgid "Comments"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:22
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:63
+msgid "Add a comment"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:49
+msgid "No comments yet."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:73
+msgid "You must be"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:73
+msgid "logged in"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:73
+msgid "to post a comment."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:81
+msgid "Logged in as"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:81
+msgid "Log out of this account"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:81
+msgid "Logout"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:86
+msgid "Name"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:86
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:107
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:31
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:39
+msgid " *"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:95
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:39
+msgid "Email "
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:95
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:55
+msgid "*"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:106
+msgid "You can use these tags"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:107
+msgid "Message"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/comments.php:115
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:63
+msgid "* mandatory fields"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/page.php:57
+#: D:\wamp\www\test\wp-content\themes\siliconapp/single.php:95
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:88
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search-form.php:2
+msgid "Search "
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search-form.php:6
+msgid "Type and press enter"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:7
+msgid "Search Results for "
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:7
+#, php-format
+msgid "'%s'"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:14
+#: D:\wamp\www\test\wp-content\themes\siliconapp/single.php:28
+msgid "Got something to say?"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:29
+msgid "Go to article"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:41
+msgid "Sorry no results were found."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:49
+msgid "Newer articles"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/search.php:63
+msgid "Older articles"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/single.php:10
+msgid "Back"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:31
+msgid "Name "
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:47
+msgid " Company"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:55
+msgid "Message "
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:74
+msgid "Your message has been sent!"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:76
+msgid "Thank you for contacting us,"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/template-contact.php:76
+msgid "We will get back to you within 2 business days."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse.php:5
+msgid "Primary Navigation"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/admin/testimonial_manager.php:101
+msgid "Manage Your Testimonials"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/core.php:240
+msgid "Author Archives"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/core.php:241
+msgid "Page Not Found - 404 error"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/core.php:242
+msgid "Archive"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/core.php:244
+msgid "Tag Archive"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/options_generator.php:299
+msgid "Select a category:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/options_generator.php:379
+msgid "Select a page:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:135
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:144
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:203
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:211
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:136
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:153
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:219
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:187
+msgid "All done."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:187
+msgid "Have fun!"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:188
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:244
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:270
+msgid "Assign Authors"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:271
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:273
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:283
+msgid "Import Attachments"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:286
+msgid "Download and import file attachments"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:303
+msgid "Import author:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:314
+msgid "or create new user with login name:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:317
+msgid "as a new user:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:325
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:327
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:328
+msgid "- Select -"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:376
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:509
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:641
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:531
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:561
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:605
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:752
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:759
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:822
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:837
+msgid "Invalid file type"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:873
+msgid "Remote server did not respond"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:879
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:886
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:891
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/install.php:897
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:42
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:67
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:72
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:248
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_framework/functions/install/parsers.php:430
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/options/theme_options.php:26
+msgid "Bottom Navigation"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/templates_cat/blog.php:35
+msgid "Read more &amp; Talk about it"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/thememodules/theme-comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/search_widget.php:9
+msgid "TFuse - Search"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:6
+msgid "A list of categories"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:7
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:13
+msgid "Categories"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:64
+msgid "Title:"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:68
+msgid "Show post counts"
+msgstr ""
+
+#: D:\wamp\www\test\wp-content\themes\siliconapp/library/tfuse_mods/widgets/selected_categories_widget.php:71
+msgid "Show hierarchy"
+msgstr ""
+

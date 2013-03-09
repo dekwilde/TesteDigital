@@ -1,0 +1,68 @@
+
+/* Homepage bg */
+
+#html_wrapper{ 
+ background: url(dark/colors/pink/html_wrapper_bg.jpg) repeat-x;
+ }
+ 
+#body_wrapper{
+ background: url(dark/colors/pink/body_wrapper_bg.jpg) no-repeat center top;
+ }
+ 
+#content_wrapper{
+ background: url(dark/colors/pink/content_wrapper_bg.jpg) no-repeat;
+ width: 990px;
+ margin: 0 auto;
+ }
+ 
+/* Secondary page bg */
+
+#html_secondary_wrapper{ 
+ background: url(dark/colors/pink/secondary_html_bg.jpg) repeat-x;
+ }
+ 
+#body_secondary_wrapper{
+ background: url(dark/colors/pink/secondary_body_bg.jpg) no-repeat center top;
+ }
+ 
+#content_secondary_wrapper{
+ background: url(dark/colors/pink/secondary_content_bg.jpg) no-repeat;
+ width: 990px;
+ margin: 0 auto;
+ }
+
+/* .corner_fix */
+
+.corner_fix{
+ display: block;
+ width: 21px;
+ height: 21px;
+ background: url(dark/colors/pink/corner_fix.png) no-repeat;
+ position: absolute;
+ top: 119px;
+ left: 59px;
+ z-index: 1;
+ }
+ 
+/* Typo */
+
+h3{
+ color: #cb14a0;
+ font-weight: bold;
+ }
+ 
+a{
+ color: #cb14a0; 
+ }
+ 
+.main_menu li a{ 
+ color: #cb14a0;
+ }
+ 
+.main_menu li a:hover{ 
+ color: #e330b9;
+ }
+
+ .comment_buble a, h4, h4 a, .entry a, .user_info p.name{
+ color: #e330b9;
+ }

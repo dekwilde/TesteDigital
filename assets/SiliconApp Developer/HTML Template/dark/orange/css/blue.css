@@ -1,0 +1,70 @@
+
+/* Homepage bg */
+
+#html_wrapper{ 
+ background: url(../images/colors/blue/html_wrapper_bg.jpg) repeat-x;
+ }
+ 
+#body_wrapper{
+ background: url(../images/colors/blue/body_wrapper_bg.jpg) no-repeat center top;
+ }
+ 
+#content_wrapper{
+ background: url(../images/colors/blue/content_wrapper_bg.jpg) no-repeat;
+ width: 990px;
+ margin: 0 auto;
+ }
+ 
+/* Secondary page bg */
+
+#html_secondary_wrapper{ 
+ background: url(../images/colors/blue/secondary_html_bg.jpg) repeat-x;
+ }
+ 
+#body_secondary_wrapper{
+ background: url(../images/colors/blue/secondary_body_bg.jpg) no-repeat center top;
+ }
+ 
+#content_secondary_wrapper{
+ background: url(../images/colors/blue/secondary_content_bg.jpg) no-repeat;
+ width: 990px;
+ margin: 0 auto;
+ }
+
+/* .corner_fix */
+
+.corner_fix{
+ display: block;
+ width: 21px;
+ height: 21px;
+ background: url(../images/colors/blue/corner_fix.png) no-repeat;
+ position: absolute;
+ top: 119px;
+ left: 59px;
+ z-index: 1;
+ }
+ 
+/* Typo */
+
+h3{
+ color: #1b77ef;
+ font-weight: bold;
+ }
+ 
+.main_menu li a{ 
+ color: #1b77ef;
+ }
+ 
+.main_menu li a:hover{ 
+ color: #74aaef;
+ }
+
+
+
+
+
+
+
+
+
+ 
